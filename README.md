@@ -1,4 +1,4 @@
-# PrintNumberInWordForm_FinalVer
+# PrintNumberInWordForm
 A Visual Studio C# project that displays the text version of your number, and can read it out loud for you in both English and Vietnamese.
 
 **HOW TO USE**
